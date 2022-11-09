@@ -76,7 +76,7 @@
     visibility:visible;
     position:relative;
     top: 193px;
-    left:41%;
+    left:39%;
 }
 #r2:checked ~ .comment_2{
     visibility:visible;  
@@ -85,7 +85,7 @@
     visibility:visible;
     position:relative;
     top: 193px;
-    left:41%;
+    left:39%;
 }
 
 #r3:checked ~ .comment_3{
@@ -95,5 +95,5 @@
     visibility:visible;
     position:relative;
     top: 193px;
-    left:39%;
+    left:37%;
 }
